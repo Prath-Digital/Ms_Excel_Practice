@@ -1,16 +1,241 @@
-# 📊 Excel Essentials
-
-![Ms Excel Lab work and Self exercises](https://img.shields.io/badge/Lab%20work%20and%20Self%20exercises-%23ffff76?logo=google%20sheets&label=Ms%20Excel)
-
----
-
-| No.  | Topics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1    | **Excel Essentials**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 1.1  | <span style="color:#1976d2;">• Introduction To Excel And Its Role In Data Analysis</span><br><span style="color:#388e3c;">• Understanding Workbooks, Sheets, And Navigating Excel</span><br><span style="color:#fbc02d;">• Explaining Relative & Absolute Cell References Formatting, And Data Input</span><br><span style="color:#7b1fa2;"><a href="lab_work/1.1_questions.xlsx">Lab Work Questions</a></span><br><span style="color:#43a047;"><a href="lab_work/1.1_answers.xlsx">Lab Work Answers</a></span><br><span style="color:#e65100;"><a href="self_exercise/1.1_questions.xlsx">Self Exercises Questions</a></span><br><span style="color:#f57c00;"><a href="self_exercise/1.1_answers.xlsx">Self Exercises Answers</a></span> |
-| 1.2  | <span style="color:#1976d2;">• Formatting Paste Special</span><br><span style="color:#388e3c;">• Excel Tables</span><br><span style="color:#fbc02d;">• Data Filters And Sorting</span><br><span style="color:#7b1fa2;">• Data Validation Tips & Tricks</span><br><span style="color:#7b1fa2;"><a href="lab_work/1.2_questions.xlsx">Lab Work Questions</a></span><br><span style="color:#43a047;"><a href="lab_work/1.2_answers.xlsx">Lab Work Answers</a></span><br><span style="color:#e65100;"><a href="self_exercise/1.2_questions.xlsx">Self Exercises Questions</a></span><br><span style="color:#f57c00;"><a href="self_exercise/1.2_answers.xlsx">Self Exercises Answers</a></span> |
-| 1.3  | <span style="color:#1976d2;">• Named Ranges</span><br><span style="color:#388e3c;">• Worksheet And Workbook Protection</span><br><span style="color:#fbc02d;">• Handle Formula Errors</span><br><span style="color:#7b1fa2;"><a href="lab_work/1.3_questions.xlsx">Lab Work Questions</a></span><br><span style="color:#43a047;"><a href="lab_work/1.3_answers.xlsx">Lab Work Answers</a></span><br><span style="color:#e65100;"><a href="self_exercise/1.3_questions.xlsx">Self Exercises Questions</a></span><br><span style="color:#f57c00;"><a href="self_exercise/1.3_answers.xlsx">Self Exercises Answers</a></span> |
-
----
-
-> **Note:** This schedule covers the essentials of Excel, focusing on practical lab work and self-exercises.
+<h1>📊 Excel Lab & Practice Progress</h1>
+<img src="https://img.shields.io/badge/Lab%20work%20and%20Self%20exercises-%2523ffff76?logo=googlesheets&label=Excel" alt="Excel Lab work and Self exercises">
+<hr style="background:transparent;">
+<table style="width:100%;border-collapse:collapse;font-family:'Segoe UI',Arial,sans-serif;">
+  <thead>
+    <tr style="background:#1976d2;color:#fff;">
+      <th style="padding:10px 8px;border:2px solid #fff;background:#1976d2;">No.</th>
+      <th style="padding:10px 8px;border:2px solid #fff;background:#1976d2;">Topics</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#e3f2fd;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #1976d2;">1</td>
+      <td style="padding:10px 8px;border:2px solid #1976d2;"><b>Excel Essentials</b></td>
+    </tr>
+    <tr style="background:#fffde7; color:#000;">
+      <td style="padding:10px 8px;border:2px solid #fbc02d;">1.1</td>
+      <td style="padding:10px 8px;border:2px solid #fbc02d;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#1976d2;">Introduction To Excel And Its Role In Data Analysis</span></li>
+          <li><span style="color:#388e3c;">Understanding Workbooks, Sheets, And Navigating Excel</span></li>
+          <li><span style="color:#fbc02d;">Explaining Relative & Absolute Cell References, Formatting, And Data Input</span></li>
+        </ul>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="lab_work/1.1_questions.xlsx">Lab Work Questions</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="lab_work/1.1_answers.xlsx">Lab Work Answers</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#e65100;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="self_exercise/1.1_questions.xlsx">Self Exercises Questions</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#f57c00;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="self_exercise/1.1_answers.xlsx">Self Exercises Answers</a>
+          </span>
+        </div>
+      </td>
+    </tr>
+    <tr style="background:#e3f2fd;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #1976d2;">1.2</td>
+      <td style="padding:10px 8px;border:2px solid #1976d2;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#fbc02d;">Formatting Paste Special</span></li>
+          <li><span style="color:#388e3c;">Excel Tables</span></li>
+          <li><span style="color:#1976d2;">Data Filters And Sorting</span></li>
+          <li><span style="color:#7b1fa2;">Data Validation Tips & Tricks</span></li>
+        </ul>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="lab_work/1.2_questions.xlsx">Lab Work Questions</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="lab_work/1.2_answers.xlsx">Lab Work Answers</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#e65100;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="self_exercise/1.2_questions.xlsx">Self Exercises Questions</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#f57c00;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="self_exercise/1.2_answers.xlsx">Self Exercises Answers</a>
+          </span>
+        </div>
+      </td>
+    </tr>
+    <tr style="background:#fffde7; color:#000;">
+      <td style="padding:10px 8px;border:2px solid #fbc02d;">1.3</td>
+      <td style="padding:10px 8px;border:2px solid #fbc02d;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#1976d2;">Named Ranges</span></li>
+          <li><span style="color:#388e3c;">Worksheet And Workbook Protection</span></li>
+          <li><span style="color:#fbc02d;">Handle Formula Errors</span></li>
+        </ul>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="lab_work/1.3_questions.xlsx">Lab Work Questions</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="lab_work/1.3_answers.xlsx">Lab Work Answers</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#e65100;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="self_exercise/1.3_questions.xlsx">Self Exercises Questions</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#f57c00;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="self_exercise/1.3_answers.xlsx">Self Exercises Answers</a>
+          </span>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="background:#000;">
+        <hr style="border:1px solid #fff; background:transparent; margin:4px 0;">
+      </td>
+    </tr>
+    <tr style="background:#e3f2fd;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #1976d2;">2</td>
+      <td style="padding:10px 8px;border:2px solid #1976d2;"><b>Formulas And Functions</b></td>
+    </tr>
+    <tr style="background:#fffde7; color:#000;">
+      <td style="padding:10px 8px;border:2px solid #fbc02d;">2.1</td>
+      <td style="padding:10px 8px;border:2px solid #fbc02d;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#1976d2;">Using IF Formula, Nesting IF Formulas</span></li>
+          <li><span style="color:#388e3c;">Using IF With AND OR Formulas</span></li>
+          <li><span style="color:#fbc02d;">COUNTIFS, SUMIFS, AVERAGEIFS</span></li>
+          <li><span style="color:#7b1fa2;">Excel TEXT Functions</span></li>
+        </ul>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="lab_work/2.1_questions.xlsx">Lab Work Questions</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="lab_work/2.1_answers.xlsx">Lab Work Answers</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#e65100;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="self_exercise/2.1_questions.xlsx">Self Exercises Questions</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#f57c00;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="self_exercise/2.1_answers.xlsx">Self Exercises Answers</a>
+          </span>
+        </div>
+      </td>
+    </tr>
+    <tr style="background:#e3f2fd;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #1976d2;">2.2</td>
+      <td style="padding:10px 8px;border:2px solid #1976d2;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#fbc02d;">VLOOKUP Function</span></li>
+          <li><span style="color:#388e3c;">INDEX and MATCH Functions</span></li>
+        </ul>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="lab_work/2.2_questions.xlsx">Lab Work Questions</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="lab_work/2.2_answers.xlsx">Lab Work Answers</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#e65100;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="self_exercise/2.2_questions.xlsx">Self Exercises Questions</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#f57c00;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="self_exercise/2.2_answers.xlsx">Self Exercises Answers</a>
+          </span>
+        </div>
+      </td>
+    </tr>
+    <tr style="background:#fffde7; color:#000;">
+      <td style="padding:10px 8px;border:2px solid #fbc02d;">2.3</td>
+      <td style="padding:10px 8px;border:2px solid #fbc02d;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#1976d2;">XLOOKUP, XMATCH Function</span></li>
+          <li><span style="color:#388e3c;">Indirect Function</span></li>
+          <li><span style="color:#fbc02d;">Offset Function</span></li>
+        </ul>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="lab_work/2.3_questions.xlsx">Lab Work Questions</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="lab_work/2.3_answers.xlsx">Lab Work Answers</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#e65100;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="self_exercise/2.3_questions.xlsx">Self Exercises Questions</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#f57c00;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="self_exercise/2.3_answers.xlsx">Self Exercises Answers</a>
+          </span>
+        </div>
+      </td>
+    </tr>
+    <tr style="background:#e3f2fd;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #1976d2;">2.4</td>
+      <td style="padding:10px 8px;border:2px solid #1976d2;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#1976d2;">Date And Time Functions</span></li>
+          <li><span style="color:#388e3c;">Match Functions</span></li>
+          <li><span style="color:#fbc02d;">Return Multiple Values Or Outputs Via FILTER Function</span></li>
+        </ul>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="lab_work/2.4_questions.xlsx">Lab Work Questions</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="lab_work/2.4_answers.xlsx">Lab Work Answers</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#e65100;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="self_exercise/2.4_questions.xlsx">Self Exercises Questions</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#f57c00;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="self_exercise/2.4_answers.xlsx">Self Exercises Answers</a>
+          </span>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<hr style="background:transparent;">
+<blockquote>
+  <b>Note:</b> This document tracks progress in Excel lab works and self-exercises. It is not intended to be a comprehensive guide to Excel functions and formulas.
+</blockquote>
