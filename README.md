@@ -1,5 +1,5 @@
 <h1>📊 Excel Lab & Practice Progress</h1>
-<img src="https://img.shields.io/badge/Lab%20work%20and%20Self%20exercises-%2523ffff76?logo=googlesheets&label=Excel" alt="Excel Lab work and Self exercises">
+<img src="https://img.shields.io/badge/Lab%20work%20and%20Self%20exercises-%23ffff76?logo=microsoft-excel&label=Excel" alt="Excel Lab work and Self exercises">
 <hr style="background:transparent;">
 <table style="width:100%;border-collapse:collapse;font-family:'Segoe UI',Arial,sans-serif;">
   <thead>
@@ -229,6 +229,30 @@
         <div style="margin-bottom:6px;">
           <span style="color:#fff;background:#f57c00;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
             <a style="color:#fff;text-decoration:none;" href="self_exercise/2.4_answers.xlsx">Self Exercises Answers</a>
+          </span>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="background:#000;">
+        <hr style="border:1px solid #fff; background:transparent; margin:4px 0;">
+      </td>
+    </tr>
+    <tr style="background:#e3f2fd;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #1976d2;">3</td>
+      <td style="padding:10px 8px;border:2px solid #1976d2;">
+        <b>PR. 1 Fundamental Booster</b>
+      </td>
+    </tr>
+    <tr style="background:#fffde7; color:#000;">
+      <td style="padding:10px 8px;border:2px solid #fbc02d;">3.1</td>
+      <td style="padding:10px 8px;border:2px solid #fbc02d;">
+        <span style="font-weight:bold; color:#333;">
+          ⚙️ PR. 1 Fundamental Booster
+        </span>
+        <div style="margin-bottom:6px;">
+          <span style="margin-left:12px;padding:4px 12px;background:#1976d2;color:#fff;border:none;border-radius:4px;cursor:pointer;">
+            <a style="color:#fff;text-decoration:none;" href="Projects/PR. 1 Fundamental Booster.xlsx">code</a>
           </span>
         </div>
       </td>
