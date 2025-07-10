@@ -252,7 +252,7 @@
         </span>
         <div style="margin-bottom:6px;">
           <span style="margin-left:12px;padding:4px 12px;background:#1976d2;color:#fff;border:none;border-radius:4px;cursor:pointer;">
-            <a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Ms_Excel_Practice">code</a>
+            <a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Ms_Excel_Pr.-1-Fundamental-booster">code</a>
           </span>
         </div>
       </td>
