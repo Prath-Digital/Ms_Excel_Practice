@@ -4,17 +4,17 @@
 <table style="width:100%;border-collapse:collapse;font-family:'Segoe UI',Arial,sans-serif;">
   <thead>
     <tr style="background:#1976d2;color:#fff;">
-      <th style="padding:10px 8px;border:2px solid #fff;background:#1976d2;">No.</th>
+      <th style="padding:10px 8px;border:2px solid #fff;background:#1976d2;text-align:center;">No.</th>
       <th style="padding:10px 8px;border:2px solid #fff;background:#1976d2;">Topics</th>
     </tr>
   </thead>
   <tbody>
     <tr style="background:#e3f2fd;color:#000;">
-      <td style="padding:10px 8px;border:2px solid #1976d2;">1</td>
+      <td style="padding:10px 8px;border:2px solid #1976d2;text-align:center;">1</td>
       <td style="padding:10px 8px;border:2px solid #1976d2;"><b>Excel Essentials</b></td>
     </tr>
     <tr style="background:#fffde7; color:#000;">
-      <td style="padding:10px 8px;border:2px solid #fbc02d;">1.1</td>
+      <td style="padding:10px 8px;border:2px solid #fbc02d;text-align:center;">1.1</td>
       <td style="padding:10px 8px;border:2px solid #fbc02d;">
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#1976d2;">Introduction To Excel And Its Role In Data Analysis</span></li>
@@ -44,7 +44,7 @@
       </td>
     </tr>
     <tr style="background:#e3f2fd;color:#000;">
-      <td style="padding:10px 8px;border:2px solid #1976d2;">1.2</td>
+      <td style="padding:10px 8px;border:2px solid #1976d2;text-align:center;">1.2</td>
       <td style="padding:10px 8px;border:2px solid #1976d2;">
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#fbc02d;">Formatting Paste Special</span></li>
@@ -75,7 +75,7 @@
       </td>
     </tr>
     <tr style="background:#fffde7; color:#000;">
-      <td style="padding:10px 8px;border:2px solid #fbc02d;">1.3</td>
+      <td style="padding:10px 8px;border:2px solid #fbc02d;text-align:center;">1.3</td>
       <td style="padding:10px 8px;border:2px solid #fbc02d;">
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#1976d2;">Named Ranges</span></li>
@@ -110,11 +110,11 @@
       </td>
     </tr>
     <tr style="background:#e3f2fd;color:#000;">
-      <td style="padding:10px 8px;border:2px solid #1976d2;">2</td>
+      <td style="padding:10px 8px;border:2px solid #1976d2;text-align:center;">2</td>
       <td style="padding:10px 8px;border:2px solid #1976d2;"><b>Formulas And Functions</b></td>
     </tr>
     <tr style="background:#fffde7; color:#000;">
-      <td style="padding:10px 8px;border:2px solid #fbc02d;">2.1</td>
+      <td style="padding:10px 8px;border:2px solid #fbc02d;text-align:center;">2.1</td>
       <td style="padding:10px 8px;border:2px solid #fbc02d;">
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#1976d2;">Using IF Formula, Nesting IF Formulas</span></li>
@@ -145,7 +145,7 @@
       </td>
     </tr>
     <tr style="background:#e3f2fd;color:#000;">
-      <td style="padding:10px 8px;border:2px solid #1976d2;">2.2</td>
+      <td style="padding:10px 8px;border:2px solid #1976d2;text-align:center;">2.2</td>
       <td style="padding:10px 8px;border:2px solid #1976d2;">
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#fbc02d;">VLOOKUP Function</span></li>
@@ -174,7 +174,7 @@
       </td>
     </tr>
     <tr style="background:#fffde7; color:#000;">
-      <td style="padding:10px 8px;border:2px solid #fbc02d;">2.3</td>
+      <td style="padding:10px 8px;border:2px solid #fbc02d;text-align:center;">2.3</td>
       <td style="padding:10px 8px;border:2px solid #fbc02d;">
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#1976d2;">XLOOKUP, XMATCH Function</span></li>
@@ -204,7 +204,7 @@
       </td>
     </tr>
     <tr style="background:#e3f2fd;color:#000;">
-      <td style="padding:10px 8px;border:2px solid #1976d2;">2.4</td>
+      <td style="padding:10px 8px;border:2px solid #1976d2;text-align:center;">2.4</td>
       <td style="padding:10px 8px;border:2px solid #1976d2;">
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#1976d2;">Date And Time Functions</span></li>
@@ -239,13 +239,13 @@
       </td>
     </tr>
     <tr style="background:#e3f2fd;color:#000;">
-      <td style="padding:10px 8px;border:2px solid #1976d2;">3</td>
+      <td style="padding:10px 8px;border:2px solid #1976d2;text-align:center;">3</td>
       <td style="padding:10px 8px;border:2px solid #1976d2;">
         <b>PR. 1 Fundamental Booster</b>
       </td>
     </tr>
     <tr style="background:#fffde7; color:#000;">
-      <td style="padding:10px 8px;border:2px solid #fbc02d;">3.1</td>
+      <td style="padding:10px 8px;border:2px solid #fbc02d;text-align:center;">3.1</td>
       <td style="padding:10px 8px;border:2px solid #fbc02d;">
         <span style="font-weight:bold; color:#333;">
           ⚙️ PR. 1 Fundamental Booster
@@ -255,6 +255,23 @@
             <a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Ms_Excel_Pr.-1-Fundamental-booster">code</a>
           </span>
         </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="background:#000;">
+        <hr style="border:1px solid #fff; background:transparent; margin:4px 0;">
+      </td>
+    </tr>
+    <tr style="background:#ffebee; color:#000;">
+      <td style="padding:10px 8px;border:2px solid #ef9a9a;text-align:center;">4</td>
+      <td style="padding:10px 8px;border:2px solid #ef9a9a;">
+        <b>Updated Topic: Pending Work Completion</b>
+      </td>
+    </tr>
+    <tr style="background:#fff8f6; color:#000;">
+      <td style="padding:10px 24px;border:2px solid #ef9a9a;text-align:center;">4.1</td>
+      <td style="padding:10px 8px;border:2px solid #ef9a9a;">
+        Pending Work Completion
       </td>
     </tr>
   </tbody>
