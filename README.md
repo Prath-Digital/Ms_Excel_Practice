@@ -247,8 +247,7 @@
     <tr style="background:#fffde7; color:#000;">
       <td style="padding:10px 8px;border:2px solid #fbc02d;text-align:center;">3.1</td>
       <td style="padding:10px 8px;border:2px solid #fbc02d;">
-        <span style="font-weight:bold; color:#333;">
-          ⚙️ PR. 1 Fundamental Booster
+        <span style="font-weight:bold; color:#333;">PR. 1 Fundamental Booster
         </span>
         <div style="margin-bottom:6px;">
           <span style="margin-left:12px;padding:4px 12px;background:#1976d2;color:#fff;border:none;border-radius:4px;cursor:pointer;">
@@ -262,16 +261,67 @@
         <hr style="border:1px solid #fff; background:transparent; margin:4px 0;">
       </td>
     </tr>
-    <tr style="background:#ffebee; color:#000;">
-      <td style="padding:10px 8px;border:2px solid #ef9a9a;text-align:center;">4</td>
-      <td style="padding:10px 8px;border:2px solid #ef9a9a;">
-        <b>Updated Topic: Pending Work Completion</b>
+    <tr style="background:#e3f2fd;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #1976d2;text-align:center;">4</td>
+      <td style="padding:10px 8px;border:2px solid #1976d2;"><b>Data Analysis</b></td>
+    </tr>
+    <tr style="background:#fffde7; color:#000;">
+      <td style="padding:10px 8px;border:2px solid #fbc02d;text-align:center;">4.1</td>
+      <td style="padding:10px 8px;border:2px solid #fbc02d;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#1976d2;">Conditional Formatting</span></li>
+          <li><span style="color:#388e3c;">WHAT IF Analysis</span></li>
+        </ul>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="lab_work/4.1_questions.xlsx">Lab Work Questions</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="lab_work/4.1_answers.xlsx">Lab Work Answers</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#e65100;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="self_exercise/4.1_questions.xlsx">Self Exercises Questions</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#f57c00;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="self_exercise/4.1_answers.xlsx">Self Exercises Answers</a>
+          </span>
+        </div>
       </td>
     </tr>
-    <tr style="background:#fff8f6; color:#000;">
-      <td style="padding:10px 24px;border:2px solid #ef9a9a;text-align:center;">4.1</td>
-      <td style="padding:10px 8px;border:2px solid #ef9a9a;">
-        Pending Work Completion
+    <tr style="background:#e3f2fd;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #1976d2;text-align:center;">4.2</td>
+      <td style="padding:10px 8px;border:2px solid #1976d2;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#fbc02d;">Linear Regression</span></li>
+          <li><span style="color:#388e3c;">Data Analysis Feature</span></li>
+          <li><span style="color:#1976d2;">Data Storytelling Tips</span></li>
+        </ul>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="lab_work/4.2_questions.xlsx">Lab Work Questions</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="lab_work/4.2_answers.xlsx">Lab Work Answers</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#e65100;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="self_exercise/4.2_questions.xlsx">Self Exercises Questions</a>
+          </span>
+        </div>
+        <div style="margin-bottom:6px;">
+          <span style="color:#fff;background:#f57c00;padding:2px 6px;border-radius:4px;display:inline-block;margin-bottom:4px;">
+            <a style="color:#fff;text-decoration:none;" href="self_exercise/4.2_answers.xlsx">Self Exercises Answers</a>
+          </span>
+        </div>
       </td>
     </tr>
   </tbody>
