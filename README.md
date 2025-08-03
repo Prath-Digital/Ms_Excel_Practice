@@ -664,6 +664,28 @@
         </div>
       </td>
     </tr>
+    <tr>
+      <td colspan="2" style="background:#000;">
+        <hr style="border:1px solid #fff; background:transparent; margin:4px 0;">
+      </td>
+    </tr>
+    <tr style="background:#e3f2fd;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #1976d2;text-align:center;">11</td>
+      <td style="padding:10px 8px;border:2px solid #1976d2;"><b>Practical Test</b></td>
+    </tr>
+    <tr style="background:#fffde7; color:#000;">
+      <td style="padding:10px 8px;border:2px solid #fbc02d;text-align:center;">11.1</td>
+      <td style="padding:10px 8px;border:2px solid #fbc02d;">
+        <span style="font-weight:bold; color:#333;">
+          📝 Practical Test
+        </span>
+        <div style="margin-bottom:6px;">
+          <span style="margin-left:12px;padding:4px 12px;background:#388e3c;color:#fff;border:none;border-radius:4px;cursor:pointer;">
+            <a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Ms_Excel_Final-Practical-Exam">test</a>
+          </span>
+        </div>
+      </td>
+    </tr>
 <hr style="background:transparent;">
 <blockquote>
   <b>Note:</b> This document tracks progress in Excel lab works and self-exercises. It is not intended to be a comprehensive guide to Excel functions and formulas.
