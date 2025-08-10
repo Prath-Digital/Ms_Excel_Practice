@@ -251,7 +251,7 @@
         </span>
         <div style="margin-bottom:6px;">
           <span style="margin-left:12px;padding:4px 12px;background:#1976d2;color:#fff;border:none;border-radius:4px;cursor:pointer;">
-            <a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Ms_Excel_Pr.-1-Fundamental-booster">code</a>
+            <a style="color:#fff;text-decoration:none;" href="dDigital/Ms_Excel_Pr.-1-Fundamental-booster">code</a>
           </span>
         </div>
       </td>
@@ -469,7 +469,7 @@
         </span>
         <div style="margin-bottom:6px;">
           <span style="margin-left:12px;padding:4px 12px;background:#1976d2;color:#fff;border:none;border-radius:4px;cursor:pointer;">
-            <a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Ms_Excel_PR.-2-Analyzer">code</a>
+            <a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/Ms_Excel_PR.-2-Analyzer">code</a>
           </span>
         </div>
       </td>
@@ -491,7 +491,7 @@
         </span>
         <div style="margin-bottom:6px;">
           <span style="margin-left:12px;padding:4px 12px;background:#388e3c;color:#fff;border:none;border-radius:4px;cursor:pointer;">
-                         <a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Ms_Excel_Practice/releases/download/ms_excel/Ms_Excel_assignment.pdf">write</a>
+                         <a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/Ms_Excel_Practice/releases/download/ms_excel/Ms_Excel_assignment.pdf">write</a>
           </span>
         </div>
       </td>
@@ -504,7 +504,7 @@
         </span>
         <div style="margin-bottom:6px;">
           <span style="margin-left:12px;padding:4px 12px;background:#1976d2;color:#fff;border:none;border-radius:4px;cursor:pointer;">
-            <a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Ms_Excel_PR.-Final-Project">code</a>
+            <a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/Ms_Excel_PR.-Final-Project">code</a>
           </span>
         </div>
       </td>
@@ -659,7 +659,7 @@
          </span>
         <div style="margin-bottom:6px;">
           <span style="margin-left:12px;padding:4px 12px;background:#1976d2;color:#fff;border:none;border-radius:4px;cursor:pointer;">
-            <a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Ms_Excel_PR.-Final-Project">code</a>
+            <a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/Ms_Excel_PR.-Final-Project">code</a>
           </span>
         </div>
       </td>
@@ -681,7 +681,7 @@
         </span>
         <div style="margin-bottom:6px;">
           <span style="margin-left:12px;padding:4px 12px;background:#388e3c;color:#fff;border:none;border-radius:4px;cursor:pointer;">
-            <a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Ms_Excel_Final-Practical-Exam">test</a>
+            <a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/Ms_Excel_Final-Practical-Exam">test</a>
           </span>
         </div>
       </td>
